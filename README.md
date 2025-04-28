@@ -29,4 +29,4 @@ I am a trainee as an IT specialist in application development, currently in my s
 [![trophy](https://github-profile-trophy.vercel.app/?username=JanisBuerkle&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 How to reach me
-- Email: [janis.buerkle@gmail.com](mailto:janis.buerkle@gmail.com)
+- Email: [Coming Soon](mailto:comingsoon)

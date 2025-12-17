@@ -5,7 +5,6 @@ I am a trainee as an IT specialist in application development, currently in my s
 ## 💻 Programming Languages I Know:
 - C#
 - XAML
-- Java
 
 ## 🎨 Hobbies
 

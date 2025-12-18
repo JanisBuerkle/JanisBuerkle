@@ -23,8 +23,5 @@ I am a trainee as an IT specialist in application development, currently in my s
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JanisBuerkle&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=JanisBuerkle&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 📫 How to reach me
 - Email: [janis.buerkle@gmail.com](mailto:janis.buerkle@gmail.com)

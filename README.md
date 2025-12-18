@@ -9,13 +9,12 @@ I am a trainee as an IT specialist in application development, currently in my s
 ## 🎨 Hobbies
 
 - 🚒 Firefighting
-- 🎯 Darts
 - 💻 Programming
 - 🎮 Gaming
-- 🎉 Party
+- 🖨️ 3D Printing
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com](https://www.linkedin.com/in/janis-b%C3%BCrkle-95aa11351/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janis-buerkle)
 
 ## 📊 GitHub Stats:
 ### 📈 Most Used Languages
@@ -28,4 +27,4 @@ I am a trainee as an IT specialist in application development, currently in my s
 [![trophy](https://github-profile-trophy.vercel.app/?username=JanisBuerkle&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 How to reach me
-- Email: [Coming Soon](mailto:comingsoon)
+- Email: [janis.buerkle@gmail.com](mailto:janis.buerkle@gmail.com)
